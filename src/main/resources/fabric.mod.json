@@ -11,13 +11,13 @@
   "environment": "client",
   "entrypoints": {
     "fabric-datagen": [
-      "com.rupnilcodes.client.EnchantedCombatDataGenerator"
+      "com.rupnilcodes.enchantedcombat.client.EnchantedCombatDataGenerator"
     ],
     "client": [
-      "com.rupnilcodes.client.EnchantedCombatClient"
+      "com.rupnilcodes.enchantedcombat.client.EnchantedCombatClient"
     ],
     "main": [
-      "com.rupnilcodes.EnchantedCombat"
+      "com.rupnilcodes.enchantedcombat.EnchantedCombat"
     ]
   },
   "mixins": [

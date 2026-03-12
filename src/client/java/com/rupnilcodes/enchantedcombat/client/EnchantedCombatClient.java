@@ -1,4 +1,4 @@
-package com.rupnilcodes.client;
+package com.rupnilcodes.enchantedcombat.client;
 
 import net.fabricmc.api.ClientModInitializer;
 
