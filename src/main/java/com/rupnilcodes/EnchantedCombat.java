@@ -1,8 +1,8 @@
-package com.example;
+package com.rupnilcodes;
 
 import net.fabricmc.api.ModInitializer;
 
-public class enchantedcombat implements ModInitializer {
+public class EnchantedCombat implements ModInitializer {
 
     @Override
     public void onInitialize() {
